@@ -1,0 +1,10 @@
+class function
+state
+use state
+props vs use state
+JSX - Javascript Syntax xtension
+js vs JSX
+functions -- regular function / arrow function / function expression    
+import / export
+default/named export
+event handling

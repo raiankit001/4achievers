@@ -1,0 +1,37 @@
+Q1 -What is Virtual DOM?
+
+    Virtual DOM is a lightweight js representation of DOM. Virtual DOM is kept in memory and synced with real DOM.
+
+Q2. What is SPA?
+
+    A SPA stands for single page application is a web application or website that interact with user dinamically creating with new data instead of default web browser loadin entire page.
+
+Q3. What is difference between class and functional component?
+
+    Class components are more suitable for complex logic and advanced features, whereas functional components with hooks are easyt to use and more efficient.
+
+Q4. What does mean by state and its use in react?
+
+    State is logical data storage that is local to the component only and can not be passed to other components.
+    on state change, the component rerenders itself.
+
+Q5. What is JSX and why do we use it instead of js?
+
+    JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript. Both JS and JSX are interchangeable but JSX makes the code easier to understand for users
+
+    JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() or appendChild() methods.
+
+Q6. What is package.json
+
+    The package. json file contains descriptive and functional metadata about a project, such as a name, version, and dependencies. 
+
+Q7. What is the Difference between react and react native? Which one is library or framework?
+
+    React is used to build the user interface for web applications, whereas React Native is used for developing a mobile applications for Android, iOS and Windows.
+
+    React is a JavaScript library
+    React Native is a JavaScript framework
+
+Q8. What is the package name you are using for routing?
+
+    react-router
