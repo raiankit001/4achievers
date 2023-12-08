@@ -1,0 +1,46 @@
+que1:	What is Single Page Application (SPA)?
+
+SPA - Single Page Application is a type of web app implementation that loades a single web document,and then updates the body content of that single document via JavaScript APIs such as XML and fetch.
+_______________________________________________________
+
+que2:	What is DNS and IP Address?
+
+The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages.
+An Internet Protocol (IP) address is a unique numerical identifier for every device or network that connects to the internet.
+_______________________________________________________
+
+que3:	What Is DOM in JS?
+
+Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content
+_______________________________________________________
+
+que4:	What is  React and why we use React instead of JS?
+
+React js is a JavaScript library and it's completely frontend and specializes in things that the user interacts with when they're using a website. 
+
+React provides good maintenance services for keeping the application running quickly and dynamically, compared to Javascript. Developers can easily maintain and update web applications using react reusable components and virtualDOM, making it superior to plain Javascript for ecommerce.
+_______________________________________________________
+
+que5:	What is JSX and why do we use it instead of js?
+
+JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript.
+JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods. JSX converts HTML tags into react elements. 
+_______________________________________________________
+
+que6:	What is package.json?
+
+package. json is a metadata file in react js project that describes the project's dependencies, scripts, configuration, and other details. It typically contains information about the project such as its name, version, author, and license.
+_______________________________________________________
+
+que7:	What is the Difference between react and react native? Which one is library or framework?
+
+React Native uses native components instead of web components to build blocks. React Native is used for mobile platforms but not browsers.
+where as ReactJs uses web component to build blocks. It is used for web platform.
+
+ReactJs is a library and React Native is a framework.
+_______________________________________________________
+
+que8:	What is difference between class and functional component?
+
+A functional component is just a plain JavaScript pure function that accepts props as an argument and returns a React element(JSX). A class component requires you to extend from React. Component and create a render function that returns a React element.
+_______________________________________________________
