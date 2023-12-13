@@ -1,0 +1,32 @@
+Que1.	What is use of Gitignore File in React Application?
+
+Ans1.	Gitignore file contain information about those file which will be ignored during the process of uploading project to github.
+_______________________________________________________
+
+Que2.	How we can create the React Application? Explain the all Steps for them.
+
+Ans2.	There are two basic method of creating a react application.
+	1. By using cdn links for react -> we can directly place CDN links into existing project and make it a react project .
+	2. By using terminal commant -> there are many variants of commands are avilable like npx create-react-app,npm create vite@latest etc.
+_______________________________________________________
+
+Que3.	What do you know about NPM?
+
+Ans3.	NPM stands for Node Package Manager which is use to manage all the requirement packages to develope react app. All npm packages are defined in files called package.json.
+_______________________________________________________
+
+que4.	What are the advantages of using React?
+
+Ans4.	Advantages of using react - 
+		Flexibility : Compare to other frontend frameworks use for developing , React Js is a library which is most flexible and can be costumize by developer as per the requirement.
+		Easy To Learn :	Any one with prior knowledge of frontend can quickely grasp the reactJs concepts and start developing without wasting excess time.
+		Performance : React JS was designed to provide high performance in mind. The core of the framework offers a virtual DOM program and server-side rendering, which makes complex apps run extremely fast.
+_______________________________________________________
+
+Que5.	What are the limitations of React?
+
+Ans5.	1.It’s a Library, Not a Framework
+	2.It Uses JSX
+	3.Does Not Support SEO
+	4.Lack of beginner friendly Updated Documentation
+_______________________________________________________
